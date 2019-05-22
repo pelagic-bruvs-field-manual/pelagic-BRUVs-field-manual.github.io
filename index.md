@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Pelagic stereo BRUVs"
+title: "Pelagic stereo-BRUVs"
 excerpt: "(Baited Remote Underwater Videos)"
 image:
   feature: /banners/00_banner.jpg
@@ -10,7 +10,7 @@ page.button1.external_url:
   caption: NESP
 ---
 
-[Phil Bouchet](mailto:phil.bouchet@uwa.edu.au), Jessica Meeuwig, Charlie Huveneers, Tim Langlois, Tom Letessier, Michael Lowry, Matt Rees, Julia Santana-Garcon, Molly Scott, Matthew Taylor, Christopher Thompson, Laurent Vigliola, Sasha Whitmarsh
+[Phil Bouchet](mailto:pjbouchet@gmail.com), Jessica Meeuwig, Charlie Huveneers, Tim Langlois, Tom Letessier, Michael Lowry, Matt Rees, Julia Santana-Garcon, Molly Scott, Matthew Taylor, Christopher Thompson, Laurent Vigliola, Sasha Whitmarsh
 
 ![](images/pelagic.jpg)
 
