@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /pelagic-bruvs-in-marine-monitoring
-title: "pelagic BRUVs in Marine Monitoring"
+title: "Pelagic BRUVs in Marine Monitoring"
 excerpt: ""
 image:
   feature: /banners/03_banner.jpg
