@@ -5,16 +5,13 @@ title: "Pelagic stereo-BRUVs"
 excerpt: "(Baited Remote Underwater Videos)"
 image:
   feature: /banners/00_banner.jpg
-  credit: "test credit"
+  credit: "Manu San Félix from the National Geographic Society (Pristine Seas Programme) 2014"
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
 ---
 
 [Phil Bouchet](mailto:pjbouchet@gmail.com), Jessica Meeuwig, Charlie Huveneers, Tim Langlois, Tom Letessier, Michael Lowry, Matt Rees, Julia Santana-Garcon, Molly Scott, Matthew Taylor, Christopher Thompson, Laurent Vigliola, Sasha Whitmarsh
-
-
-test
 
 ![](images/pelagic.jpg)
 
