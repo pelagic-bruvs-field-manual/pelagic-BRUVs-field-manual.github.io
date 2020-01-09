@@ -7,7 +7,7 @@ image:
 layout: home
 
 ---
-
+{% include toc.html class="toc-left" h_min=2 h_max=2 %} 
 
 This manual relates to gear designed to acquire digital video imagery of macro-organisms living in the ocean's water column, from small zooplankton (Letessier et al. 2013a) to marine mega-vertebrates (Letessier et al. 2014). A sister chapter on benthic BRUVs is included in the field package and addresses sampling protocols for demersal fish and shark assemblages ([https://benthic-bruvs-field-manual.github.io/](Chapter 5)). The document aims to span everything from pre-survey planning to equipment preparation, field procedures, and on-board data acquisition to guarantee the efficient and correct use of pelagic BRUVs as monitoring tools in Australian Marine Parks (AMPs) and other Commonwealth waters. Such information is critical for supporting the development of consistent, concise, transparent and standardised guidelines in the collection and processing of pelagic BRUV data that can allow statistically robust comparisons between studies, sites, projects, and institutions.
 
