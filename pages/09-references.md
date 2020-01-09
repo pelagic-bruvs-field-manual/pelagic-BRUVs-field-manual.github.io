@@ -8,7 +8,6 @@ image:
 ---
 
 Althaus, F., N. Hill, R. Ferrari, L. Edwards, R. Przeslawski, C. H. Schönberg, R. Stuart-Smith, N. Barrett, G. Edgar, and J. Colquhoun. 2015. A standardised vocabulary for identifying benthic biota and substrata from underwater imagery: the CATAMI classification scheme. PLoS ONE 10:e0141039.
-</p>
 <p>
 
 Axenrot, T., T. Didrikas, C. Danielsson, and S. Hansson. 2004. Diel patterns in pelagic fish behaviour and distribution observed from a stationary, bottom-mounted, and upward-facing transducer. ICES Journal of Marine Science: Journal du Conseil 61:1100-1104.
