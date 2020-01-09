@@ -28,7 +28,8 @@ Boutros, N., M. R. Shortis, and E. S. Harvey. 2015. A comparison of calibration 
 <p>
 
 Clarke, T., S. K. Whitmarsh, P. G. Fairweather, and C. Huveneers. 2019. Overlap in fish assemblages observed using pelagic and benthic baited remote underwater video stations. Marine and Freshwater Research. DOI: 10.1071/MF18224
-
+</p>
+<p>
 Coghlan, A., D. McLean, E. Harvey, and T. Langlois. 2017. Does fish behaviour bias abundance and length information collected by baited underwater video? Journal of Experimental Marine Biology and Ecology 497:143-151.
 </p>
 <p>
