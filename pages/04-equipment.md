@@ -10,7 +10,6 @@ It is crucial that equipment be appropriately set up to ensure maximum consisten
 
 Equipment configurations can vary among terrains, bathomes and as a function of study objectives (Figure 6.1). For instance, Santana-Garcon et al. (2014b)'s design is remarkably stable compared to Letessier et al.  (2013b) but is constrained by the need to moor, which Bouchet & Meeuwig (2015)'s design bypasses. Likewise, bait arm length is usually variable, and may be reduced under turbid conditions to optimise species identification capacity.
 
-![alt_text](images/image_1.jpg "image_tooltip")
-
+![alt_text](images/figures/figure_1.png "figure 6.1")
 
 Figure 6.1 Examples of possible deployment configurations for pelagic BRUV sampling. Schematics extracted from or as used in (A) Santana-Garcon et al. (2014b), (B) Schifiliti et al. (2014) and Kempster et al. (2016), (C) Letessier et al. (2013b). Cameras can be either forward-facing (A, C) or downward-facing (B). The anchored design shown in C was adapted in Bouchet & Meeuwig (2015) to let BRUV units drift freely.
