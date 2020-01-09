@@ -73,7 +73,7 @@ Figure 6.2 Example species observed on pelagic BRUVs. (A) Bryde's whale <em>Bala
 <p>
 
 
-<img src="images/figures/figure_3.png/figures/figure_2.pn" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/figure_3.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
