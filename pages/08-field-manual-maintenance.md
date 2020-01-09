@@ -64,11 +64,7 @@ The version control for Chapter 6 (field manual for Pelagic BRUVs) is below:
 </p>
 <p>
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Field-Manuals3.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Field-Manuals3.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/figure_2.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -77,10 +73,7 @@ Figure 6.2 Example species observed on pelagic BRUVs. (A) Bryde's whale <em>Bala
 <p>
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Field-Manuals4.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Field-Manuals4.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/figure_3.png/figures/figure_2.pn" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
