@@ -2,7 +2,7 @@
 layout: home
 permalink: /post-survey-procedures
 title: "Post-survey procedures"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/05_banner.jpg
 ---

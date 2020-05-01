@@ -2,7 +2,7 @@
 layout: home
 permalink: /field-manual-maintenance
 title: "Field manual maintenance"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/05_banner.jpg
 ---
