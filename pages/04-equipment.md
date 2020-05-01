@@ -4,7 +4,7 @@ permalink: /equipment
 title: "Equipment"
 excerpt: ""
 image:
-  feature: /banners/04_banner.jpg
+  feature: /banners/05_banner.jpg
 ---
 It is crucial that equipment be appropriately set up to ensure maximum consistency among surveys and to facilitate gear replacement where/when necessary. Key components for a pelagic BRUV are listed in Table 6.3.
 

@@ -4,7 +4,7 @@ permalink: /platform-description
 title: "Platform description"
 excerpt: "  "
 image:
-  feature: /banners/01_banner.jpg
+  feature: /banners/05_banner.jpg
 toc: true
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %} 
