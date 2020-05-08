@@ -40,5 +40,6 @@ Bouchet P, Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, San
 |       _[Video processing](https://pelagic-bruvs-field-manual.github.io/field-procedures#video-processing)_                 |
 |       _[Data release](https://pelagic-bruvs-field-manual.github.io/field-procedures#data-release)_                         |        
 |  **[Field Manual Maintenance](https://pelagic-bruvs-field-manual.github.io/field-manual-maintenance)**                     |  
-|  **[References](https://pelagic-bruvs-field-manual.github.io/references)**                                                 |                                            
+|  **[References](https://pelagic-bruvs-field-manual.github.io/references)**                                                 |                                 
+
 <a href="#" class="scrollUpButton">Top</a>
