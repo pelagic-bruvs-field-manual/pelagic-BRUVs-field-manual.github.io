@@ -408,7 +408,7 @@ Figure 6.1 Examples of possible deployment configurations for pelagic BRUV sampl
 
 
 
-![](images/figures/figure_2.png)<br>
+![alt text](images/figures/figure_2.png "Logo Title Text 1")
 
 
 
