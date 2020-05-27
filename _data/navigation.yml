@@ -39,6 +39,10 @@
   url: https://pelagic-bruvs-field-manual.github.io/field-manual-maintenance
   excerpt: "Version control and an example metadata table"
   image: /5x8/08_5x8.jpg
+- title: "Acknowledgements"
+  url: https://pelagic-bruvs-field-manual.github.io/acknowledgements
+  excerpt: ""
+  image: /5x8/08_5x8.jpg
 - title: "References"
   url: https://pelagic-bruvs-field-manual.github.io/references
   excerpt: "Literature cited"
