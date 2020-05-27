@@ -26,7 +26,7 @@ Pelagic BRUVs retain all the qualities that have made camera-based sampling a fl
 *   They generate quantitative data, while also documenting behaviour.
 *   They are viable in a range of depths, underwater terrains and ocean conditions.
 
-Importantly, the use of one or more attractants substantially increases the likelihood that nearby animals enter the field of view of the cameras for digital capture (Rees_ et al._ 2015). Extensive collective experience in the deployment of pelagic BRUVs across a range of habitats, climates, and conditions indicates that the instruments are capable of detecting a large suite of taxonomic groups (including many of interest to fisheries), from teleost fishes to elasmobranchs, marine mammals, molluscs, crustaceans, and reptiles (Figure 6.2).
+Importantly, the use of one or more attractants substantially increases the likelihood that nearby animals enter the field of view of the cameras for digital capture (Rees _et al._ 2015). Extensive collective experience in the deployment of pelagic BRUVs across a range of habitats, climates, and conditions indicates that the instruments are capable of detecting a large suite of taxonomic groups (including many of interest to fisheries), from teleost fishes to elasmobranchs, marine mammals, molluscs, crustaceans, and reptiles (Figure 6.2).
 
 In spite of their performance, pelagic BRUVs suffer from a number of limitations, many of which apply equally to demersal videography, including:
 
@@ -36,16 +36,16 @@ In spite of their performance, pelagic BRUVs suffer from a number of limitations
 *   Correct identification of some species can be difficult for small, shy or morphologically similar species and individuals.
 *   Bait dispersal is a complex, dynamic process likely to fluctuate spatio-temporally. Quantifying the size of the effective area being sampled and its variation remains an unresolved challenge.
 *   Bait elicits diverse animal behavioural responses whose strength, timing and duration often relate to many unknown parameters (e.g. olfactory performance, prey search strategy, human presence etc.).
-*   Numerous species may also respond to non-olfactory cues in ways that have seldom been quantified (but see Rees_ et al._ 2015).
-*   The nature and magnitude of observation biases arising from the presence of conspecifics (and other species) are largely unknown (Dunlop_ et al._ 2014, Coghlan_ et al._ 2017).
-*   Counts of wildlife on BRUVs reflect measures of _relative_ rather than _absolute_ abundance and can be biased, e.g. by screen saturation (Lowry_ et al._ 2011, Schobernd_ et al._ 2013).
+*   Numerous species may also respond to non-olfactory cues in ways that have seldom been quantified (but see Rees _et al._ 2015).
+*   The nature and magnitude of observation biases arising from the presence of conspecifics (and other species) are largely unknown (Dunlop _et al._ 2014, Coghlan _et al._ 2017).
+*   Counts of wildlife on BRUVs reflect measures of _relative_ rather than _absolute_ abundance and can be biased, e.g. by screen saturation (Lowry _et al._ 2011, Schobernd _et al._ 2013).
 *   Detection/attraction probabilities likely vary by time of day, habitat, bathome, and species.
-*   Zero-inﬂation is common and may undermine the statistical power needed to identify patterns and changes in pelagic communities (Santana-Garcon_ et al._ 2014b).
-*   Benthic “species contamination” can occur wherever the ratio between suspension and seabed depths approaches one (e.g. pelagic BRUVs suspended at 10 m in a total of 15 m of water) (Letessier_ et al._ 2013b), but see Clarke_ et al._ (2019) for a comparison of benthic and pelagic assemblages and their overlap at different depths. 
+*   Zero-inﬂation is common and may undermine the statistical power needed to identify patterns and changes in pelagic communities (Santana-Garcon _et al._ 2014b).
+*   Benthic “species contamination” can occur wherever the ratio between suspension and seabed depths approaches one (e.g. pelagic BRUVs suspended at 10 m in a total of 15 m of water) (Letessier _et al._ 2013b), but see Clarke _et al._ (2019) for a comparison of benthic and pelagic assemblages and their overlap at different depths. 
 
-Further discussion of some of these caveats can be found in Bouchet & Meeuwig (2015), Santana-Garcon_ et al._ (2014b) and Espinoza_ et al._ (2014), among many others.
+Further discussion of some of these caveats can be found in Bouchet & Meeuwig (2015), Santana-Garcon _et al._ (2014b) and Espinoza _et al._ (2014), among many others.
 
-Table 6.1 Summary of studies using pelagic video systems in marine monitoring. Orientation refers to the angle of the camera(s), and can be either horizontal (forward-facing) or vertical (downward-facing). Deployments can be conducted with instruments either moored to the seafloor (‘anchored’), linked to a vessel via a coaxial cable or similar (‘tethered), or free drifting (as individual units or in a longline configuration). NSW: New South Wales. WA: Western Australia. Due to differences in local supply, it is difficult to identify a standardised type of baitfish. As a rule, small pelagic species with soft, oily flesh are usually recommended. For instance, sardines/pilchards (_Sardinops sagax_) have been a staple of BRUV research in Australia and New Zealand, as evidence suggests they result in consistent numbers of fish among samples (less variation), exhibit higher mean abundance among sites and are more persistent (i.e. longer time to depletion) (Dorman_ et al._ 2012). MW = mid-water. P = pelagic. S = Stereo.
+Table 6.1 Summary of studies using pelagic video systems in marine monitoring. Orientation refers to the angle of the camera(s), and can be either horizontal (forward-facing) or vertical (downward-facing). Deployments can be conducted with instruments either moored to the seafloor (‘anchored’), linked to a vessel via a coaxial cable or similar (‘tethered), or free drifting (as individual units or in a longline configuration). NSW: New South Wales. WA: Western Australia. Due to differences in local supply, it is difficult to identify a standardised type of baitfish. As a rule, small pelagic species with soft, oily flesh are usually recommended. For instance, sardines/pilchards (_Sardinops sagax_) have been a staple of BRUV research in Australia and New Zealand, as evidence suggests they result in consistent numbers of fish among samples (less variation), exhibit higher mean abundance among sites and are more persistent (i.e. longer time to depletion) (Dorman _et al._ 2012). MW = mid-water. P = pelagic. S = Stereo.
 
 
 <table>
@@ -393,7 +393,7 @@ tuna oil, in an (8:1:1) [100g]
 ![alt_text](images/Chapter-6-Pelagic2.jpg "image_tooltip")
 
 
-Figure 6.1 Examples of possible deployment configurations for pelagic BRUV sampling. Schematics extracted from or as used in (A) Santana-Garcon_ et al._ (2014b), (B) Schifiliti_ et al._ (2014) and Kempster_ et al._ (2016), (C) Letessier_ et al._ (2013b). Cameras can be either forward-facing (A, C) or downward-facing (B). The anchored design shown in C was adapted in Bouchet & Meeuwig (2015) to let BRUV units drift freely.
+Figure 6.1 Examples of possible deployment configurations for pelagic BRUV sampling. Schematics extracted from or as used in (A) Santana-Garcon _et al._ (2014b), (B) Schifiliti _et al._ (2014) and Kempster _et al._ (2016), (C) Letessier _et al._ (2013b). Cameras can be either forward-facing (A, C) or downward-facing (B). The anchored design shown in C was adapted in Bouchet & Meeuwig (2015) to let BRUV units drift freely.
 
 
 ![alt_text](images/Chapter-6-Pelagic3.jpg "image_tooltip")
