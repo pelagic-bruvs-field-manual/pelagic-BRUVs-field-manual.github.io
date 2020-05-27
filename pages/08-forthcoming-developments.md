@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /forthcoming developments
+permalink: /forthcoming-developments
 title: "Forthcoming developments"
 excerpt: "<br>"
 image:
