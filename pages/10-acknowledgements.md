@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /acknowldegments
+permalink: /acknowledegments
 title: "Acknowldegments"
 excerpt: "<br>"
 image:
