@@ -11,7 +11,7 @@ image:
 A visual summary of the key steps to follow when deploying pelagic BRUVs is shown in Figure 6.3.
 
 
-![alt_text](images/Chapter-6-Pelagic4.jpg "image_tooltip")
+![alt_text](images/figures/figure_3.png)
 
 
 Figure 6.3 Images from key steps involved in the use of pelagic BRUVs for marine monitoring. (A) Using a calibration cube in an enclosed pool environment. (B) Once set up, the gear can be easily stacked and stowed on deck. (C) Example of a GoPro camera turned on before deployment. (D) Relevant metadata can be recorded on waterproof paper. (E) Pelagic BRUVs are versatile and can be deployed manually from a variety of platforms ranging in size from small rigid inflatables to large research vessels. (F) Maintaining visual contact with the gear is key to avoiding equipment loss. Should the deployment vessel need to leave the site (e.g. to support additional activities), a VHF transmitter can be used to re-locate the gear. (G) Flags and brightly coloured buoys help locate the equipment for recovery. (H) Videos are typically downloaded and backed up at the end of each sampling day. (I) Processing and analysis of the imagery occur in a computer lab post-survey.
