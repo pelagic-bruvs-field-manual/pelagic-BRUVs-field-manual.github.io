@@ -6,15 +6,15 @@
 - title: "Platform Description"
   url: https://pelagic-bruvs-field-manual.github.io/platform-description
   excerpt: "Comparison to other sampling methods, advantages, limitations and defintions"
-  image: /5x8/01_5x8.jpg
+  image: /5x8/PelagicBRUVS_1.jpg
 - title: "Scope"
   url: https://pelagic-bruvs-field-manual.github.io/scope
   excerpt: "Scope for the benthic stereo-BRUVs Field Manual"
-  image: /5x8/02_5x8.jpg
+  image: /5x8/PelagicBRUVS_2.jpg
 - title: "Pelagic BRUVs in Marine Monitoring"
   url: https://pelagic-bruvs-field-manual.github.io/pelagic-bruvs-in-marine-monitoring
   excerpt: "Uses and history of stereo-BRUVs"
-  image: /5x8/03_5x8.jpg
+  image: /5x8/Marotiri2.jpg
 - title: "Equipment"
   url: https://pelagic-bruvs-field-manual.github.io/equipment
   excerpt: "Equipment"
@@ -42,7 +42,7 @@
 - title: "Acknowledgements"
   url: https://pelagic-bruvs-field-manual.github.io/acknowledgements
   excerpt: ""
-  image: /5x8/08_5x8.jpg
+  image: /5x8/acknowledgements_teaser
 - title: "References"
   url: https://pelagic-bruvs-field-manual.github.io/references
   excerpt: "Literature cited"

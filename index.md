@@ -5,7 +5,7 @@ title: "Pelagic stereo-BRUVs"
 excerpt: "(Baited Remote Underwater Videos)"
 image:
   feature: /banners/05_banner.jpg
-  credit: "Centre for Marine Futures, University of Western Australia"
+  credit: "Manu San Félix from the National Geographic Society (Pristine Seas Programme) 2014"
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
