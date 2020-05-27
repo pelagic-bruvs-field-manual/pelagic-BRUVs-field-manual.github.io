@@ -35,10 +35,10 @@ Bouchet P, Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, San
 |       _[Deployment](https://pelagic-bruvs-field-manual.github.io/field-procedures#deployment)_                             |
 |       _[Retrieval](https://pelagic-bruvs-field-manual.github.io/field-procedures#retrieval)_                               |
 |  **[Post-Survey Procedures](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures)**                         | 
-|       _[Data management](https://pelagic-bruvs-field-manual.github.io/field-procedures#data-management)_                   |
-|       _[Quality control](https://pelagic-bruvs-field-manual.github.io/field-procedures#quality-control)_                   |
-|       _[Video processing](https://pelagic-bruvs-field-manual.github.io/field-procedures#video-processing)_                 |
-|       _[Data release](https://pelagic-bruvs-field-manual.github.io/field-procedures#data-release)_                         |   
+|       _[Data management](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures#data-management)_                   |
+|       _[Quality control](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures#quality-control)_                   |
+|       _[Video processing](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures#video-processing)_                 |
+|       _[Data release](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures#data-release)_                         |   
 |  **[Forthcoming Developments](https://pelagic-bruvs-field-manual.github.io/forthcoming-developments)**                     | 
 |  **[Field Manual Maintenance](https://pelagic-bruvs-field-manual.github.io/field-manual-maintenance)**                     |  
 |  **[Acknowledgments](https://pelagic-bruvs-field-manual.github.io/acknowledgments)**                                       | 
