@@ -398,6 +398,7 @@ tuna oil, in an (8:1:1) [100g]
 
 <br>
 ![alt text](images/figures/figure_1.png "Logo Title Text 1")
+![alt text](images/figures/figure1.jpg "Logo Title Text 1")
 
 
 ![](images/figures/figure_1.png)
