@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /pre-survey-preparations
-title: "Pre-survey preparations"
+title: "Pre-survey Preparations"
 excerpt: "<br>"
 image:
   feature: /banners/05_banner.jpg

@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /forthcoming-developments
-title: "Forthcoming developments"
+title: "Forthcoming Developments"
 excerpt: "<br>"
 image:
   feature: /banners/05_banner.jpg

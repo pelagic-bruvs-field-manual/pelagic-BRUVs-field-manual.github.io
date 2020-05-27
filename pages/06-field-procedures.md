@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /field-procedures
-title: "Field procedures"
+title: "Field Procedures"
 excerpt: "<br>"
 image:
   feature: /banners/05_banner.jpg
@@ -9,10 +9,6 @@ image:
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
 A visual summary of the key steps to follow when deploying pelagic BRUVs is shown in Figure 6.3.
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Chapter-6-Pelagic4.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/Chapter-6-Pelagic4.jpg "image_tooltip")

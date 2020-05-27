@@ -2,7 +2,7 @@
 layout: home
 permalink: /acknowldegments
 title: "Acknowldegments"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/05_banner.jpg
 ---
