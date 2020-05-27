@@ -50,16 +50,16 @@ Table 6.1 Summary of studies using pelagic video systems in marine monitoring. O
 
 
 
-<div>
+![alt text](images/figures/figure1.jpg "alt")
 
-
-![alt text](images/figures/figure1.jpg "Logo Title Text 1")<br>
 
 Figure 6.1 Examples of possible deployment configurations for pelagic BRUV sampling. Schematics extracted from or as used in (A) Santana-Garcon _et al._ (2014b), (B) Schifiliti _et al._ (2014) and Kempster _et al._ (2016), (C) Letessier _et al._ (2013b). Cameras can be either forward-facing (A, C) or downward-facing (B). The anchored design shown in C was adapted in Bouchet & Meeuwig (2015) to let BRUV units drift freely.<br>
 
 
 
-![alt text](images/figures/figure_2.png "Logo Title Text 1")
+![alt text](https://github.com/pelagic-bruvs-field-manual/pelagic-BRUVs-field-manual.github.io/blob/master/images/figures/figure_2.png?raw=true "Logo Title Text 1")
+
+
 
 Figure 6.2 Example species observed on pelagic BRUVs. (A) Bryde’s whale _Balaenoptera brydei_, (B) Manta ray _Manta birostris_, (C) Dusky dolphin _Lagenorhynchus obscurus_, (D) Whale shark _Rhincodon typus_, (E) Dolphin fish _Coryphaena hippurus_, (F) Atlantic horse mackerel _Trachurus trachurus_, (G) Blue shark _Prionace glauca_, (H) Shortfin mako shark _Isurus oxyrinchus_, (I) Sea snake _Hydrophiidae sp._, (J) Green turtle _Chelonia mydas_, (K) Krill _Euphausia sp_., (L) Loggerhead turtle _Caretta caretta_, (M) Atlantic spotted dolphin _Stenella frontalis_, (N) Longfin yellowtail _Seriola rivoliana_, (O) Sub-Antarctic fur seal _Arctocephalus tropicalis_, (P) Yellowfin tuna _Thunnus albacares_, (Q) Pilot fish _Naucrates ductor,_ (R) Blue marlin _Makaira nigricans_, and (S) Unicorn leatherjacket _Aluterus monoceros_.
 
