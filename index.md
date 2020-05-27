@@ -38,7 +38,8 @@ Bouchet P, Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, San
 |       _[Data management](https://pelagic-bruvs-field-manual.github.io/field-procedures#data-management)_                   |
 |       _[Quality control](https://pelagic-bruvs-field-manual.github.io/field-procedures#quality-control)_                   |
 |       _[Video processing](https://pelagic-bruvs-field-manual.github.io/field-procedures#video-processing)_                 |
-|       _[Data release](https://pelagic-bruvs-field-manual.github.io/field-procedures#data-release)_                         |        
+|       _[Data release](https://pelagic-bruvs-field-manual.github.io/field-procedures#data-release)_                         |   
+|  **[Forthcoming Developments](https://pelagic-bruvs-field-manual.github.io/forthcoming-developments)**                     | 
 |  **[Field Manual Maintenance](https://pelagic-bruvs-field-manual.github.io/field-manual-maintenance)**                     |  
 |  **[References](https://pelagic-bruvs-field-manual.github.io/references)**                                                 |                                 
 
