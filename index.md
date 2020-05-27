@@ -41,7 +41,7 @@ Bouchet P, Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, San
 |       _[Data release](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures#data-release)_                         |   
 |  **[Forthcoming Developments](https://pelagic-bruvs-field-manual.github.io/forthcoming-developments)**                     | 
 |  **[Field Manual Maintenance](https://pelagic-bruvs-field-manual.github.io/field-manual-maintenance)**                     |  
-|  **[Acknowledgments](https://pelagic-bruvs-field-manual.github.io/acknowledgements)**                                       | 
+|  **[Acknowledgements](https://pelagic-bruvs-field-manual.github.io/acknowledgements)**                                       | 
 |  **[References](https://pelagic-bruvs-field-manual.github.io/references)**                                                 |                                 
 
 <a href="#" class="scrollUpButton">Top</a>
