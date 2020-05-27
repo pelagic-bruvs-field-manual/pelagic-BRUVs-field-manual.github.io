@@ -396,12 +396,15 @@ tuna oil, in an (8:1:1) [100g]
 <br>
 ![](images/figures/figure_1.png)
 
+![](images/figures/figure_1.png)
+    
 
 Figure 6.1 Examples of possible deployment configurations for pelagic BRUV sampling. Schematics extracted from or as used in (A) Santana-Garcon _et al._ (2014b), (B) Schifiliti _et al._ (2014) and Kempster _et al._ (2016), (C) Letessier _et al._ (2013b). Cameras can be either forward-facing (A, C) or downward-facing (B). The anchored design shown in C was adapted in Bouchet & Meeuwig (2015) to let BRUV units drift freely.<br>
 
 
 
 ![](images/figures/figure_2.png)<br>
+
 
 
 
