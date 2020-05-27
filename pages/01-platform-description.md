@@ -48,346 +48,195 @@ Further discussion of some of these caveats can be found in Bouchet & Meeuwig (2
 Table 6.1 Summary of studies using pelagic video systems in marine monitoring. Orientation refers to the angle of the camera(s), and can be either horizontal (forward-facing) or vertical (downward-facing). Deployments can be conducted with instruments either moored to the seafloor (‘anchored’), linked to a vessel via a coaxial cable or similar (‘tethered), or free drifting (as individual units or in a longline configuration). NSW: New South Wales. WA: Western Australia. Due to differences in local supply, it is difficult to identify a standardised type of baitfish. As a rule, small pelagic species with soft, oily flesh are usually recommended. For instance, sardines/pilchards (_Sardinops sagax_) have been a staple of BRUV research in Australia and New Zealand, as evidence suggests they result in consistent numbers of fish among samples (less variation), exhibit higher mean abundance among sites and are more persistent (i.e. longer time to depletion) (Dorman _et al._ 2012). MW = mid-water. P = pelagic. S = Stereo.
 
 
+
 <table>
+<thead>
   <tr>
-   <td>Authors
-   </td>
-   <td>Location
-   </td>
-   <td>Stereo
-   </td>
-   <td>Orientation
-   </td>
-   <td>Method
-   </td>
-   <td>Attractant type
-   </td>
-   <td>Bait type
-   </td>
-   <td>Instrument name
-   </td>
+    <th>Authors</th>
+    <th>Location</th>
+    <th>Stereo</th>
+    <th>Orientation</th>
+    <th>Method</th>
+    <th>Attractant type</th>
+    <th>Bait type</th>
+    <th>Instrument name</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Heagney et al. (2007)</td>
+    <td>Lord Howe Island<br>(NSW, Australia)</td>
+    <td>🗶</td>
+    <td>Horizontal</td>
+    <td>Anchored</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Mixture of minced pilchards, bread and tuna oil (8:1:1), combined in matrix of vegetable meal (falafel) [100g]</td>
+    <td>MW BRUVs</td>
   </tr>
   <tr>
-   <td>Heagney <em>et al.</em> (2007)
-   </td>
-   <td>Lord Howe Island \
-(NSW, Australia)
-   </td>
-   <td>🗶
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Anchored
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Mixture of minced pilchards, bread and tuna oil (8:1:1), combined in matrix of vegetable meal (falafel) [100g]
-   </td>
-   <td>MW BRUVs
-   </td>
+    <td>Letessier et al. (2013)</td>
+    <td>Shark Bay<br>(WA, Australia)</td>
+    <td>✔</td>
+    <td>Horizontal</td>
+    <td>Anchored</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Pilchards, squid, and combination (slurry, 1:1)</td>
+    <td>MW camera rigs</td>
   </tr>
   <tr>
-   <td>Letessier <em>et al.</em> (2013)
-   </td>
-   <td>Shark Bay \
-(WA, Australia)
-   </td>
-   <td>✔
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Anchored
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Pilchards, squid, and combination (slurry, 1:1)
-   </td>
-   <td>MW camera rigs
-   </td>
+    <td>Santana et al. (2014a)</td>
+    <td>Ningaloo Reef<br>(WA, Australia)</td>
+    <td>✔</td>
+    <td>Horizontal</td>
+    <td>Anchored</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Mullets (cut in halves) [1kg]</td>
+    <td>PS BRUVs</td>
   </tr>
   <tr>
-   <td>Santana <em>et al.</em> (2014a)
-   </td>
-   <td>Ningaloo Reef \
-(WA, Australia)
-   </td>
-   <td>✔
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Anchored
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Mullets (cut in halves) [1kg]
-   </td>
-   <td>PS BRUVs
-   </td>
+    <td>Santana et al. (2014b)</td>
+    <td>Coral Bay<br>(WA, Australia)</td>
+    <td>✔</td>
+    <td>Horizontal</td>
+    <td>Anchored</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Pilchards [800g]</td>
+    <td>PS BRUVs</td>
   </tr>
   <tr>
-   <td>Santana <em>et al.</em> (2014b)
-   </td>
-   <td>Coral Bay \
-(WA, Australia)
-   </td>
-   <td>✔
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Anchored
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Pilchards [800g]
-   </td>
-   <td>PS BRUVs
-   </td>
+    <td>Santana et al. (2014c)</td>
+    <td>Western Australia (several locations)</td>
+    <td>✔</td>
+    <td>Horizontal</td>
+    <td>Anchored</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Crushed pilchards [800g]</td>
+    <td>PS BRUVs</td>
   </tr>
   <tr>
-   <td>Santana <em>et al. </em>(2014c)
-   </td>
-   <td>Western Australia (several locations)
-   </td>
-   <td>✔
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Anchored
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Crushed pilchards [800g]
-   </td>
-   <td>PS BRUVs
-   </td>
+    <td>Santana et al. (2014d)</td>
+    <td>Houtman Abrolhos Is. (WA, Australia)</td>
+    <td>✔</td>
+    <td>Horizontal</td>
+    <td>Anchored</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Crushed pilchards [800g]</td>
+    <td>PS BRUVs</td>
   </tr>
   <tr>
-   <td>Santana <em>et al.</em> (2014d)
-   </td>
-   <td>Houtman Abrolhos Is. (WA, Australia)
-   </td>
-   <td>✔
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Anchored
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Crushed pilchards [800g]
-   </td>
-   <td>PS BRUVs
-   </td>
+    <td>Schifiliti et al. (2014)</td>
+    <td>Ningaloo Reef<br>(WA, Australia)</td>
+    <td>✔</td>
+    <td>Vertical</td>
+    <td>Tethered</td>
+    <td>Olfactory (dead bait)</td>
+    <td>N/A</td>
+    <td>RemORA</td>
   </tr>
   <tr>
-   <td>Schifiliti <em>et al.</em> (2014)
-   </td>
-   <td>Ningaloo Reef \
-(WA, Australia)
-   </td>
-   <td>✔
-   </td>
-   <td>Vertical
-   </td>
-   <td>Tethered
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>N/A
-   </td>
-   <td>RemORA
-   </td>
+    <td>Bouchet &amp; Meeuwig (2015)</td>
+    <td>Perth Canyon<br>(WA, Australia)</td>
+    <td>✔</td>
+    <td>Horizontal</td>
+    <td>Drifting</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Crushed pilchard heads, guts and tails [2-3kg]</td>
+    <td>PS BRUVs</td>
   </tr>
   <tr>
-   <td>Bouchet & Meeuwig (2015)
-   </td>
-   <td>Perth Canyon \
-(WA, Australia)
-   </td>
-   <td>✔
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Drifting
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Crushed pilchard heads, guts and tails [2-3kg]
-   </td>
-   <td>PS BRUVs
-   </td>
+    <td>Fukuba et al. (2015)</td>
+    <td>Mariana Trench (Western North Pacific)</td>
+    <td>🗶</td>
+    <td>Vertical</td>
+    <td>Drifting</td>
+    <td>Olfactory (live bait)</td>
+    <td>Live matured eels</td>
+    <td>Una-Cam</td>
   </tr>
   <tr>
-   <td>Fukuba <em>et al.</em> (2015)
-   </td>
-   <td>Mariana Trench (Western North Pacific)
-   </td>
-   <td>🗶
-   </td>
-   <td>Vertical
-   </td>
-   <td>Drifting
-   </td>
-   <td>Olfactory (live bait)
-   </td>
-   <td>Live matured eels
-   </td>
-   <td>Una-Cam
-   </td>
+    <td>Rees et al. (2015)</td>
+    <td>Jervis Bay<br>(NSW, Australia)</td>
+    <td>🗶</td>
+    <td>Horizontal</td>
+    <td>Anchored</td>
+    <td>Olfactory, visual, acoustic</td>
+    <td>Visual: Spearfishing ‘swivel flasher’.<br>Acoustic: Playback recording of bait fish.<br>Olfactory: Mixture of white bread and pilchards.</td>
+    <td>MW RUVs</td>
   </tr>
   <tr>
-   <td>Rees <em>et al.</em> (2015)
-   </td>
-   <td>Jervis Bay \
-(NSW, Australia)
-   </td>
-   <td>🗶
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Anchored
-   </td>
-   <td>Olfactory, visual, acoustic
-   </td>
-   <td><span style="text-decoration:underline;">Visual:</span> Spearfishing ‘swivel flasher’. \
-<span style="text-decoration:underline;">Acoustic:</span> Playback recording of bait fish. \
-<span style="text-decoration:underline;">Olfactory:</span> Mixture of white bread and pilchards.
-   </td>
-   <td>MW RUVs
-   </td>
+    <td>Scott et al. (2015)</td>
+    <td>Sydney Harbour (Australia)</td>
+    <td>🗶</td>
+    <td>Horizontal</td>
+    <td>Anchored</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Mixture of minced pilchards, bread, andtuna oil, in an (8:1:1) [100g]</td>
+    <td>P BRUVs</td>
   </tr>
   <tr>
-   <td>Scott <em>et al.</em> (2015)
-   </td>
-   <td>Sydney Harbour (Australia)
-   </td>
-   <td>🗶
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Anchored
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Mixture of minced pilchards, bread, and
-<p>
-tuna oil, in an (8:1:1) [100g]
-   </td>
-   <td>P BRUVs
-   </td>
+    <td>Kempster et al. (2016)</td>
+    <td>Mossel Bay<br>(South Africa)</td>
+    <td>✔</td>
+    <td>Vertical</td>
+    <td>Tethered</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Sardines and fish heads [0.5kg]</td>
+    <td>RemORA</td>
   </tr>
   <tr>
-   <td>Kempster <em>et al.</em> (2016)
-   </td>
-   <td>Mossel Bay \
-(South Africa)
-   </td>
-   <td>✔
-   </td>
-   <td>Vertical
-   </td>
-   <td>Tethered
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Sardines and fish heads [0.5kg]
-   </td>
-   <td>RemORA
-   </td>
+    <td>Vargas et al. (2016)</td>
+    <td>Australian east coast (several locations)</td>
+    <td>🗶</td>
+    <td>Horizontal</td>
+    <td>Drifting</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Chopped pilchards and squid [500g]</td>
+    <td>Surf-BRUVs</td>
   </tr>
   <tr>
-   <td>Vargas <em>et al.</em> (2016)
-   </td>
-   <td>Australian east coast (several locations)
-   </td>
-   <td>🗶
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Drifting
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Chopped pilchards and squid [500g]
-   </td>
-   <td>Surf-BRUVs
-   </td>
+    <td>Acuña-Marrero et al. (2018)</td>
+    <td>Galapagos Islands, Ecuador</td>
+    <td>✔</td>
+    <td>Horizontal</td>
+    <td>Anchored</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Yellow-fin tuna [800g]</td>
+    <td>P BRUVs</td>
   </tr>
   <tr>
-   <td>Acuña-Marrero<em> et al.</em> (2018)
-   </td>
-   <td>Galapagos Islands, Ecuador
-   </td>
-   <td>✔
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Anchored
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Yellow-fin tuna [800g]
-   </td>
-   <td>P BRUVs
-   </td>
+    <td>Caselle et al. (2018)</td>
+    <td>Tristan da Cunha (British Overseas Territory)</td>
+    <td>✔</td>
+    <td>Horizontal</td>
+    <td>Drifting</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Crushed fish [800g]</td>
+    <td>MW BRUVs</td>
   </tr>
   <tr>
-   <td>Caselle<em> et al.</em> (2018)
-   </td>
-   <td>Tristan da Cunha (British Overseas Territory)
-   </td>
-   <td>✔
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Drifting
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Crushed fish [800g]
-   </td>
-   <td>MW BRUVs
-   </td>
+    <td>Ryan et al. (2018)</td>
+    <td>Mossel Bay<br>(South Africa)</td>
+    <td>✔</td>
+    <td>Vertical</td>
+    <td>Tethered</td>
+    <td>Olfactory (dead bait)</td>
+    <td>Crushed sardines [0.5kg]</td>
+    <td>N/A</td>
   </tr>
   <tr>
-   <td>Ryan <em>et al.</em> (2018)
-   </td>
-   <td>Mossel Bay \
-(South Africa)
-   </td>
-   <td>✔
-   </td>
-   <td>Vertical
-   </td>
-   <td>Tethered
-   </td>
-   <td>Olfactory (dead bait)
-   </td>
-   <td>Crushed sardines [0.5kg]
-   </td>
-   <td>N/A
-   </td>
+    <td>Clarke et al. (2019)</td>
+    <td>Gulf St Vincent (SA, Australia)</td>
+    <td>🗶</td>
+    <td>Horizontal</td>
+    <td>Anchored</td>
+    <td>Olfactory, visual</td>
+    <td>Visual: flasher.<br>Olfactory: minced sardines [1kg]</td>
+    <td>P BRUVs</td>
   </tr>
-  <tr>
-   <td>Clarke <em>et al.</em> (2019)
-   </td>
-   <td>Gulf St Vincent (SA, Australia)
-   </td>
-   <td>🗶
-   </td>
-   <td>Horizontal
-   </td>
-   <td>Anchored
-   </td>
-   <td>Olfactory, visual
-   </td>
-   <td><span style="text-decoration:underline;">Visual:</span> flasher. \
-<span style="text-decoration:underline;">Olfactory:</span> minced sardines [1kg]
-   </td>
-   <td>P BRUVs
-   </td>
-  </tr>
+</tbody>
 </table>
+
+
 
 
 
