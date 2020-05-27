@@ -390,7 +390,7 @@ tuna oil, in an (8:1:1) [100g]
 
 
 
-<div>
+<div</table>>
 
 
 ![alt text](images/figures/figure1.jpg "Logo Title Text 1")<br>
