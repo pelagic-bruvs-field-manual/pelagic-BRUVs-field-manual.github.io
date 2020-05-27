@@ -1,7 +1,7 @@
 ---
 layout: home
-permalink: /acknowledegments
-title: "Acknowldegments"
+permalink: /acknowledgements
+title: "Acknowledgements"
 excerpt: "<br>"
 image:
   feature: /banners/05_banner.jpg
