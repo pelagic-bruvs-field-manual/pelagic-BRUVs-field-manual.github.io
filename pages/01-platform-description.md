@@ -53,6 +53,9 @@ Table 6.1 Summary of studies using pelagic video systems in marine monitoring. O
 ![alt text](images/figures/figure1.jpg "alt")
 
 
+<img src="images/figures/figure1.jpg" "alt"/>
+
+
 Figure 6.1 Examples of possible deployment configurations for pelagic BRUV sampling. Schematics extracted from or as used in (A) Santana-Garcon _et al._ (2014b), (B) Schifiliti _et al._ (2014) and Kempster _et al._ (2016), (C) Letessier _et al._ (2013b). Cameras can be either forward-facing (A, C) or downward-facing (B). The anchored design shown in C was adapted in Bouchet & Meeuwig (2015) to let BRUV units drift freely.<br>
 
 
