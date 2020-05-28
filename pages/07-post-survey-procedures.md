@@ -82,13 +82,13 @@ Following the steps listed below will ensure the timely release of BRUV imagery 
 39. Immediate post-trip reporting should be completed by creating a metadata record documenting the purpose of the BRUV sampling campaign, the survey design, sampling locations, equipment specifications, and any challenges or limitations encountered. This can be done far in advance of annotation (scoring) of raw video, which is time-consuming and often does not occur for some time following completion of sampling.
 40. Publish metadata record to GlobalArchive and the [Australian Ocean Data Network (AODN) catalogue](http://catalogue.aodn.org.au/geonetwork/srv/eng/main.home) as soon as possible after metadata has been quality controlled (see section 6.7.2). 
 
-    This can be done in one of two ways:
+  This can be done in one of two ways:
 
 *   If metadata from your agency is regularly harvested by the AODN, follow agency-specific protocols for metadata and data release. 
-*   Otherwise, metadata records can be created and submitted via the [GlobalArchive upload page](https://globalarchive.org/) and the [AODN Data Submission Tool](https://metadataentry.aodn.org.au/submit). Note that user registration is required, but this is free and immediate. \
+*   Otherwise, metadata records can be created and submitted via the [GlobalArchive upload page](https://globalarchive.org/) and the [AODN Data Submission Tool](https://metadataentry.aodn.org.au/submit). Note that user registration is required, but this is free and immediate.<br>
 
 
-    	Lodging metadata with the AODN prior to making annotation data available is an important step in documenting the BRUV campaign and enhancing future discoverability of the data.
+  Lodging metadata with the AODN prior to making annotation data available is an important step in documenting the BRUV campaign and enhancing future discoverability of the data.
 
 41. Annotate video (fish counts and length) using EventMeasure or similar software.
 42. Upload annotation data and any associated calibration, taxa and habitat data to GlobalArchive.
