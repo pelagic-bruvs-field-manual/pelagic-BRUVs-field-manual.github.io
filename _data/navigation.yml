@@ -18,23 +18,23 @@
 - title: "Equipment"
   url: https://pelagic-bruvs-field-manual.github.io/equipment
   excerpt: "Equipment"
-  image: /5x8/04_5x8.jpg
+  image: /5x8/02_teaser.jpg
 - title: "Pre-survey Preparations"
   url: https://pelagic-bruvs-field-manual.github.io/pre-survey-preparations
   excerpt: "Methodology and Pre-survey checklist"
-  image: /5x8/05_5x8.jpg
+  image: /5x8/04_teaser.jpg
 - title: "Field Procedures"
   url: https://pelagic-bruvs-field-manual.github.io/field-procedures
   excerpt: "Cailbrations, arrival on site, deployment and retrieval"
-  image: /5x8/06_5x8.jpg
+  image: /5x8/03_teaser.jpg
 - title: "Post-survey Procedures"
   url: https://pelagic-bruvs-field-manual.github.io/post-survey-procedures
   excerpt: "Data management, quality control, video processing and data release"
-  image: /5x8/07_5x8.jpg
+  image: /5x8/01_teaser.png
 - title: "Forthcoming Developments"
   url: https://pelagic-bruvs-field-manual.github.io/forthcoming-developments
   excerpt: ""
-  image: /5x8/08_5x8.jpg
+  image: /5x8/05_teaser.jpg
 - title: "Field Manual Maintenance"
   url: https://pelagic-bruvs-field-manual.github.io/field-manual-maintenance
   excerpt: "Version control and an example metadata table"
