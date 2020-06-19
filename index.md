@@ -11,7 +11,7 @@ page.button1.external_url:
   caption: NESP
 ---
 
-[Phil Bouchet](mailto:pjbouchet@gmail.com), Jessica Meeuwig, Charlie Huveneers, Tim Langlois, Tom Letessier, Michael Lowry, Matt Rees, Julia Santana-Garcon, Molly Scott, Matthew Taylor, Christopher Thompson, Laurent Vigliola, Sasha Whitmarsh
+[Phil Bouchet](mailto:pjbouchet@gmail.com), Jessica Meeuwig, Charlie Huveneers, Tim Langlois, Tom Letessier, Michael Lowry, Matt Rees, Julia Santana-Garcon, Molly Scott, Matthew Taylor, Christopher Thompson, Laurent Vigliola & Sasha Whitmarsh
 
 ![](images/pelagic.jpg)
 Image Source: Manu San Félix from the National Geographic Society (Pristine Seas Programme) 2014
