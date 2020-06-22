@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: main
 permalink: /
 title: "Pelagic stereo-BRUVs"
 excerpt: "(Baited Remote Underwater Videos)"
@@ -11,13 +11,13 @@ page.button1.external_url:
   caption: NESP
 ---
 
-[Phil Bouchet](mailto:pjbouchet@gmail.com), Jessica Meeuwig, Charlie Huveneers, Tim Langlois, Tom Letessier, Michael Lowry, Matt Rees, Julia Santana-Garcon, Molly Scott, Matthew Taylor, Christopher Thompson, Laurent Vigliola & Sasha Whitmarsh
-
-![](images/pelagic.jpg)
+<div align="center"><p style="font-size:20px;"><a href="mailto:pjbouchet@gmail.com">Phil Bouchet</a>, Jessica Meeuwig, Charlie Huveneers, Tim Langlois, Tom Letessier, Michael Lowry, Matt Rees, Julia Santana-Garcon, Molly Scott, Matthew Taylor, Christopher Thompson, Laurent Vigliola & Sasha Whitmarsh</p></div><br>
+<img src="images/pelagic.jpg" width="100%">
 Image Source: Manu San Félix from the National Geographic Society (Pristine Seas Programme) 2014
+<br>
+<br>
+<strong>Chapter citation:</strong><br>Bouchet P, Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, Santana-Garcon J, Scott M, Taylor M, Thompson C, Vigliola L, Whitmarsh S. 2020. Marine sampling field manual for pelagic BRUVs (Baited Remote Underwater Videos). In <i>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2</i>. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP). 
 
-Chapter citation:
-Bouchet P, Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, Santana-Garcon J, Scott M, Taylor M, Thompson C, Vigliola L, Whitmarsh S. 2018. Marine sampling field manual for pelagic BRUVs (Baited Remote Underwater Videos). In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp. 105-132.
 
 
 | Chapter Contents                                                                                                           |
