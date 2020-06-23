@@ -45,7 +45,7 @@ In spite of their performance, pelagic BRUVs suffer from a number of limitations
 
 Further discussion of some of these caveats can be found in Bouchet & Meeuwig (2015), Santana-Garcon _et al._ (2014b) and Espinoza _et al._ (2014), among many others.
 
-Table 6.1 Summary of studies using pelagic video systems in marine monitoring. Orientation refers to the angle of the camera(s), and can be either horizontal (forward-facing) or vertical (downward-facing). Deployments can be conducted with instruments either moored to the seafloor (‘anchored’), linked to a vessel via a coaxial cable or similar (‘tethered), or free drifting (as individual units or in a longline configuration). NSW: New South Wales. WA: Western Australia. Due to differences in local supply, it is difficult to identify a standardised type of baitfish. As a rule, small pelagic species with soft, oily flesh are usually recommended. For instance, sardines/pilchards (_Sardinops sagax_) have been a staple of BRUV research in Australia and New Zealand, as evidence suggests they result in consistent numbers of fish among samples (less variation), exhibit higher mean abundance among sites and are more persistent (i.e. longer time to depletion) (Dorman _et al._ 2012). MW = mid-water. P = pelagic. S = Stereo.
+**Table 6.1:** Summary of studies using pelagic video systems in marine monitoring. Orientation refers to the angle of the camera(s), and can be either horizontal (forward-facing) or vertical (downward-facing). Deployments can be conducted with instruments either moored to the seafloor (‘anchored’), linked to a vessel via a coaxial cable or similar (‘tethered), or free drifting (as individual units or in a longline configuration). NSW: New South Wales. WA: Western Australia. Due to differences in local supply, it is difficult to identify a standardised type of baitfish. As a rule, small pelagic species with soft, oily flesh are usually recommended. For instance, sardines/pilchards (_Sardinops sagax_) have been a staple of BRUV research in Australia and New Zealand, as evidence suggests they result in consistent numbers of fish among samples (less variation), exhibit higher mean abundance among sites and are more persistent (i.e. longer time to depletion) (Dorman _et al._ 2012). MW = mid-water. P = pelagic. S = Stereo.
 
 
 
@@ -237,18 +237,14 @@ Table 6.1 Summary of studies using pelagic video systems in marine monitoring. O
 </table>
 
 
-
-
-
-
 ![alt text](https://github.com/pelagic-bruvs-field-manual/pelagic-BRUVs-field-manual.github.io/blob/master/images/figures/figure_1.png?raw=true "alt")
 
 
-Figure 6.1 Examples of possible deployment configurations for pelagic BRUV sampling. Schematics extracted from or as used in (A) Santana-Garcon _et al._ (2014b), (B) Schifiliti _et al._ (2014) and Kempster _et al._ (2016), (C) Letessier _et al._ (2013b). Cameras can be either forward-facing (A, C) or downward-facing (B). The anchored design shown in C was adapted in Bouchet & Meeuwig (2015) to let BRUV units drift freely.<br>
+**Figure 6.1:** Examples of possible deployment configurations for pelagic BRUV sampling. Schematics extracted from or as used in (A) Santana-Garcon _et al._ (2014b), (B) Schifiliti _et al._ (2014) and Kempster _et al._ (2016), (C) Letessier _et al._ (2013b). Cameras can be either forward-facing (A, C) or downward-facing (B). The anchored design shown in C was adapted in Bouchet & Meeuwig (2015) to let BRUV units drift freely.<br>
 
 
 ![alt text](https://github.com/pelagic-bruvs-field-manual/pelagic-BRUVs-field-manual.github.io/blob/master/images/figures/figure_2.png?raw=true "Logo Title Text 1")
 
 
-Figure 6.2 Example species observed on pelagic BRUVs. (A) Bryde’s whale _Balaenoptera brydei_, (B) Manta ray _Manta birostris_, (C) Dusky dolphin _Lagenorhynchus obscurus_, (D) Whale shark _Rhincodon typus_, (E) Dolphin fish _Coryphaena hippurus_, (F) Atlantic horse mackerel _Trachurus trachurus_, (G) Blue shark _Prionace glauca_, (H) Shortfin mako shark _Isurus oxyrinchus_, (I) Sea snake _Hydrophiidae sp._, (J) Green turtle _Chelonia mydas_, (K) Krill _Euphausia sp_., (L) Loggerhead turtle _Caretta caretta_, (M) Atlantic spotted dolphin _Stenella frontalis_, (N) Longfin yellowtail _Seriola rivoliana_, (O) Sub-Antarctic fur seal _Arctocephalus tropicalis_, (P) Yellowfin tuna _Thunnus albacares_, (Q) Pilot fish _Naucrates ductor,_ (R) Blue marlin _Makaira nigricans_, and (S) Unicorn leatherjacket _Aluterus monoceros_.
+**Figure 6.2:** Example species observed on pelagic BRUVs. (A) Bryde’s whale _Balaenoptera brydei_, (B) Manta ray _Manta birostris_, (C) Dusky dolphin _Lagenorhynchus obscurus_, (D) Whale shark _Rhincodon typus_, (E) Dolphin fish _Coryphaena hippurus_, (F) Atlantic horse mackerel _Trachurus trachurus_, (G) Blue shark _Prionace glauca_, (H) Shortfin mako shark _Isurus oxyrinchus_, (I) Sea snake _Hydrophiidae sp._, (J) Green turtle _Chelonia mydas_, (K) Krill _Euphausia sp_., (L) Loggerhead turtle _Caretta caretta_, (M) Atlantic spotted dolphin _Stenella frontalis_, (N) Longfin yellowtail _Seriola rivoliana_, (O) Sub-Antarctic fur seal _Arctocephalus tropicalis_, (P) Yellowfin tuna _Thunnus albacares_, (Q) Pilot fish _Naucrates ductor,_ (R) Blue marlin _Makaira nigricans_, and (S) Unicorn leatherjacket _Aluterus monoceros_.
 

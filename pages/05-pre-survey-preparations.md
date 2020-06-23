@@ -20,16 +20,19 @@ image:
 
 <span style="text-decoration:underline;">Appropriate camera settings must be selected</span> (e.g. frame rate, video resolution, field of view mode, action cams vs camcorders, see Table 6.3) in light of their performance relative to the study goals and market availability. Correct date/time settings are particularly crucial for file management during subsequent analyses. When using GoPro cameras, note that standard and dive housings are rated to 40 m and 60 m respectively. Special backdoors must be also fitted if battery packs are considered. All equipment must be carefully checked prior to deployment, including that cameras have been serviced, cleaned, and calibrated (if using stereo-BRUVs). Spares (batteries, memory cards, cameras, Table 6.2) are essential as a contingency plan against equipment failure/damage/loss or adaptive changes in the sampling plan (e.g. additional deployments).
 
-Table 6.3 Example camera settings for a pelagic BRUVs. Values reflect the use of GoPro Hero3 cameras. Options may differ in other camera models.
+**Table 6.3:** Example camera settings for a pelagic BRUVs. Values reflect the use of GoPro Hero3 cameras. Options may differ in other camera models.
 
 
 <table>
+<thead>
   <tr>
    <td>Settings
    </td>
    <td>Value
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td colspan="2" >Camera
    </td>
@@ -120,6 +123,7 @@ Table 6.3 Example camera settings for a pelagic BRUVs. Values reflect the use of
    <td> Manual
    </td>
   </tr>
+ </tbody>
 </table>
 
 
@@ -136,6 +140,7 @@ Table 6.3 Example camera settings for a pelagic BRUVs. Values reflect the use of
 
 
 <table>
+<thead>
   <tr>
    <td>
    </td>
@@ -144,6 +149,8 @@ Table 6.3 Example camera settings for a pelagic BRUVs. Values reflect the use of
    <td>Description/comments
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>□
    </td>
@@ -216,6 +223,7 @@ Table 6.3 Example camera settings for a pelagic BRUVs. Values reflect the use of
    <td>
    </td>
   </tr>
+  </tbody>
 </table>
 
 

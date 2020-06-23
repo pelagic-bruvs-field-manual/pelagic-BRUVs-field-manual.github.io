@@ -6,20 +6,25 @@ excerpt: "<br>"
 image:
   feature: /banners/05_banner.jpg
 ---
+{% include toc.html class="toc-left" h_min=2 h_max=2 %} 
+
 It is crucial that equipment be appropriately set up to ensure maximum consistency among surveys and to facilitate gear replacement where/when necessary. Key components for a pelagic BRUV are listed in Table 6.2.
 
 Equipment configurations can vary among terrains, bathomes and as a function of study objectives (Figure 6.1). For instance, Santana-Garcon _et al._ (2014b)’s design is remarkably stable compared to Letessier _et al._ (2013b) but is constrained by the need to moor, which Bouchet & Meeuwig (2015)’s design bypasses. Likewise, bait arm length is usually variable, and may be reduced under turbid conditions to optimise species identification capacity.
 
-Table 6.2 Example packing list. The list reflects the equipment needed to deploy pelagic BRUVs in an adaptation of Bouchet and Meeuwig (2015)’s protocol, whereby 3-5 camera units are tethered to each other on a longline (ca. 250 m) and drift with prevailing currents.
+**Table 6.2:** Example packing list. The list reflects the equipment needed to deploy pelagic BRUVs in an adaptation of Bouchet and Meeuwig (2015)’s protocol, whereby 3-5 camera units are tethered to each other on a longline (ca. 250 m) and drift with prevailing currents.
 
 
 <table>
+<thead>
   <tr>
    <td>Item description
    </td>
    <td>Quantity
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td colspan="2" >BRUV units
    </td>
@@ -324,5 +329,6 @@ Table 6.2 Example packing list. The list reflects the equipment needed to deploy
    <td>3 / item
    </td>
   </tr>
+ </tbody>
 </table>
 

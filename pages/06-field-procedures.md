@@ -13,7 +13,7 @@ A visual summary of the key steps to follow when deploying pelagic BRUVs is show
 
 ![alt text](https://github.com/pelagic-bruvs-field-manual/pelagic-BRUVs-field-manual.github.io/blob/master/images/figures/figure_3.png?raw=true "Figure 3")
 
-Figure 6.3 Images from key steps involved in the use of pelagic BRUVs for marine monitoring. (A) Using a calibration cube in an enclosed pool environment. (B) Once set up, the gear can be easily stacked and stowed on deck. (C) Example of a GoPro camera turned on before deployment. (D) Relevant metadata can be recorded on waterproof paper. (E) Pelagic BRUVs are versatile and can be deployed manually from a variety of platforms ranging in size from small rigid inflatables to large research vessels. (F) Maintaining visual contact with the gear is key to avoiding equipment loss. Should the deployment vessel need to leave the site (e.g. to support additional activities), a VHF transmitter can be used to re-locate the gear. (G) Flags and brightly coloured buoys help locate the equipment for recovery. (H) Videos are typically downloaded and backed up at the end of each sampling day. (I) Processing and analysis of the imagery occur in a computer lab post-survey.
+**Figure 6.3:** Images from key steps involved in the use of pelagic BRUVs for marine monitoring. (A) Using a calibration cube in an enclosed pool environment. (B) Once set up, the gear can be easily stacked and stowed on deck. (C) Example of a GoPro camera turned on before deployment. (D) Relevant metadata can be recorded on waterproof paper. (E) Pelagic BRUVs are versatile and can be deployed manually from a variety of platforms ranging in size from small rigid inflatables to large research vessels. (F) Maintaining visual contact with the gear is key to avoiding equipment loss. Should the deployment vessel need to leave the site (e.g. to support additional activities), a VHF transmitter can be used to re-locate the gear. (G) Flags and brightly coloured buoys help locate the equipment for recovery. (H) Videos are typically downloaded and backed up at the end of each sampling day. (I) Processing and analysis of the imagery occur in a computer lab post-survey.
 
 
 ## Calibrations
@@ -25,8 +25,6 @@ Stereo-BRUVs require calibration to ensure accurate length measurements. Calibra
 
 ## Arrival on site
 
-
-
 1. Unpack equipment and check for any damage that may have occurred during transport.
 2. Check that all camera settings are correct (Table 6.3), batteries are full and memory cards formatted.
 3. If not already done, number each individual camera and memory card using a permanent marker, and make a note of which card is used in which camera on the data sheet. It may be useful to also number batteries and battery extension packs, to facilitate the troubleshooting of any hardware malfunctions. 
@@ -34,16 +32,19 @@ Stereo-BRUVs require calibration to ensure accurate length measurements. Calibra
 5. Set up pelagic BRUV unit(s) (see Table 6.4 for an example). Attach bait containers to bait arms and securely stack/stow equipment on deck.
 6. Discuss deployment and safety plans with captain/crew/team and deliver a copy of sampling site coordinates to the skipper.
 
-Table 6.4 Example instructions for setting up a pelagic BRUV. Note that BRUV components are often made of stainless steel to prevent rusting in the marine environment. All replacement parts (e.g. spare bolts, nuts etc.) must therefore also be marine grade stainless (316).   
+**Table 6.4:** Example instructions for setting up a pelagic BRUV. Note that BRUV components are often made of stainless steel to prevent rusting in the marine environment. All replacement parts (e.g. spare bolts, nuts etc.) must therefore also be marine grade stainless (316).   
 
 
 <table>
+<thead>
   <tr>
    <td>Order
    </td>
    <td>Action
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td colspan="2" >Rigs
    </td>
@@ -218,6 +219,7 @@ Table 6.4 Example instructions for setting up a pelagic BRUV. Note that BRUV com
    <td>Splice a 10 m length of line to the buoy, pass the opposite end through the eyelet of a double action clip and splice back on itself to fix in place.
    </td>
   </tr>
+  </tbody>
 </table>
 
 
@@ -245,7 +247,7 @@ Table 6.4 Example instructions for setting up a pelagic BRUV. Note that BRUV com
 21. Mark a GPS waypoint when the unit is deployed and record both deployment time and site coordinates on the data sheet, which will have been pre-populated with location, rig number, camera numbers, memory card numbers etc. Include comments where necessary e.g. issues, weather conditions.
 22. For single-rig designs, travel to the next site. For multi-rig designs, repeat until all units are in the water, making sure the captain moves forward slowly to pay out the lines. 
 
-Table 6.5 Example metadata sheet for pelagic stereo-BRUV fieldwork. Left and right memory card numbers must be recorded for each camera pair. 
+**Table 6.5:** Example metadata sheet for pelagic stereo-BRUV fieldwork. Left and right memory card numbers must be recorded for each camera pair. 
 
 
 <table>
