@@ -29,7 +29,7 @@ Image Source: Manu San Félix from the National Geographic Society (Pristine Sea
 |       _[Arrival on site](https://pelagic-bruvs-field-manual.github.io/field-procedures#arrival-on-site)_                   |
 |       _[Deployment](https://pelagic-bruvs-field-manual.github.io/field-procedures#deployment)_                             |
 |       _[Retrieval](https://pelagic-bruvs-field-manual.github.io/field-procedures#retrieval)_                               |
-|  **[Post-Survey Procedures](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures)**                         | 
+|  **[Post-survey Procedures](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures)**                         | 
 |       _[Data management](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures#data-management)_             |
 |       _[Quality control](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures#quality-control)_             |
 |       _[Video processing](https://pelagic-bruvs-field-manual.github.io/post-survey-procedures#video-processing)_           |
